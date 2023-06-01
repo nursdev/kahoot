@@ -1,0 +1,26 @@
+Capital of Kazakhstan {blank}?
+Astana
+
+What language is this program written in {blank}?
+Java
+
+What technology was used to write this program?
+JavaFX
+Django framework
+Spring framework
+C++
+
+Это какое музыка?
+C:\Users\Lenovo\Desktop\210103084\src\project\resources\kahoot_music.mp3
+kahoot
+bad habits
+save your tears
+auyrmaidy jurek
+
+5+5=?
+10
+1
+15
+2
+
+
